@@ -1,0 +1,159 @@
+.footer-v2-child,
+.group-child,
+.work-screen-v1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1728px;
+  height: 1629px;
+}
+.footer-v2-child,
+.group-child {
+  height: 76px;
+}
+.group-child {
+  width: 863px;
+}
+.about-me,
+.contact,
+.work {
+  position: absolute;
+  top: 26px;
+  left: 92.86px;
+  display: inline-block;
+  width: 92.86px;
+}
+.about-me,
+.contact {
+  left: 342.64px;
+  width: 177.72px;
+}
+.contact {
+  left: 677.27px;
+  width: 145.7px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 865px;
+  width: 863px;
+  height: 76px;
+}
+.james-webster {
+  position: absolute;
+  top: 19px;
+  left: 152px;
+  font-size: 32px;
+  font-family: var(--font-roboto);
+}
+.aoelhdlrjvjusel4lzfo-1-uan6n-icon,
+.footer-v2 {
+  position: absolute;
+  top: 1553px;
+  left: 0;
+  width: 1728px;
+  height: 76px;
+}
+.aoelhdlrjvjusel4lzfo-1-uan6n-icon {
+  top: 0;
+  height: 530px;
+  object-fit: cover;
+}
+.uxui-designer {
+  margin: 0;
+}
+.james-webster-uxui-container {
+  position: absolute;
+  top: 372px;
+  left: 1112px;
+  font-size: 48px;
+  font-family: var(--font-roboto);
+  color: #000;
+}
+.group-item,
+.header-v2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 76px;
+}
+.group-item {
+  background-color: var(--color-darkslateblue);
+  width: 561px;
+}
+.about-me1,
+.contact1,
+.work1 {
+  position: absolute;
+  top: 26px;
+  left: 60.37px;
+  display: inline-block;
+  width: 60.37px;
+}
+.about-me1,
+.contact1 {
+  left: 222.73px;
+  width: 115.53px;
+}
+.contact1 {
+  left: 440.27px;
+  width: 94.71px;
+}
+.header-v2,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 146px;
+  width: 561px;
+  height: 76px;
+}
+.header-v2 {
+  left: 0;
+  width: 1728px;
+  color: var(--color-white);
+}
+.group-project-well-read-1,
+.screenshot-120-1 {
+  position: absolute;
+  top: 559px;
+  left: 146px;
+  width: 708px;
+  height: 425px;
+  object-fit: cover;
+}
+.group-project-well-read-1 {
+  left: 874px;
+}
+.work-screen-v11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 1117px;
+}
+.doe-first-page-1 {
+  position: absolute;
+  top: 1003px;
+  left: 146px;
+  width: 708px;
+  height: 425px;
+  object-fit: cover;
+}
+.work-screen-v1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 1436px;
+}
+.work-screen-v2 {
+  position: relative;
+  width: 100%;
+  height: 1436px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inter);
+}
